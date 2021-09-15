@@ -2,3 +2,5 @@
 Daily-Exchange-Rates-per-Euro-1999-2021
 
 https://www.kaggle.com/lsind18/euro-exchange-daily-rates-19992020
+
+https://wandb.ai/ranuga-d/Daily-Exchange-Rates-per-Euro-1999-2021
